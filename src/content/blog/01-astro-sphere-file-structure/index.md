@@ -1,12 +1,13 @@
 ---
-title: "FUrina-MD"
-summary: "Sc Bot Simple"
-date: "Mar 18 2023"
+title: "Komiku Scraper"
+summary: "Plugin ESM"
+date: "Mar 17 2024"
 draft: false
 tags:
-- Javascript
-- Typescript
-demoUrl: https://whatsapp.com/channel/0029VaUeCulAojYxj9JKd91f
-repoUrl: https://github.com/RegaBruh/Tahuuuu.git
+- Script
 ---
-Sc Bot yang di buat waktu gabut
+
+A one line summary of what each file and directory is for:
+```js
+console.log("hello world")
+```
